@@ -21,7 +21,7 @@
 ---
 
 ## 👨‍💻 All of My Projects Are Available At  
-👉 [GitHub Portfolio](https://github.com/Yash-Gupta-hub)  
+👉 [GitHub Portfolio](https://github.com/Yash-Gupta-hub?tab=repositories)  
 
 ---
 
